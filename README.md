@@ -15,9 +15,9 @@
 
 <details>
   <summary>Surprise 😳</summary>
-  <img alt="BrunoMSts's top languages" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMSts&theme=radical&layout=compact&count_private=true&langs_count=10"/>
+  <img alt="BrunoMSts's top languages" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMSts&theme=radical&layout=compact&count_private=true&langs_count=10"/>
 
-  <img alt="Bruno Martins's" align="right" height="190px" src="https://github-readme-stats.vercel.app/api?username=BrunoMSts&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+  <img alt="Bruno Martins's" align="right" height="166px" src="https://github-readme-stats.vercel.app/api?username=BrunoMSts&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
 </details>
 
 
